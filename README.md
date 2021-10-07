@@ -6,7 +6,8 @@
 ## Introduction of Washington State Department of Ecology website
 purpose of UT, how & what you want to test especially based on the findings of your heuristic evaluation
 
-
+The Washington State Department of Ecology website provides residents with various information regarding the environment, including air and climate, waste and toxics, spills and cleanups, and more. It is an information-heavy website, so it should be neatly organized and clearly accessible as a result. During my heuristic evaluation of the website, some problems I identified were a lack of a "back" button, lack of functionality regarding the search bar, difficulty contacting the relevant people, and some minor design issues.  
+Because this website hosts a lot of information, it is crucial that it be accessible to everyone that may need it. Therefore, this usability test was conducted on the website to identify potential problems with the website that were not caught during a heuristic evaluation of it. As usability tests allow developers and UX researchers to understand the user's point of view and experience navigating a website, they are important in finding usability issues that may not have been considered previously.  
 The usability test consisted of the following steps:
 - Intro
 - Background questions
@@ -20,6 +21,7 @@ The usability test consisted of the following steps:
 <br>
 The usability aimed to measure how the user felt regarding ease of use, trustworthiness, site organization and content, and general feelings upon using the website.  
 Zoom and its recording function was used to capture footage of the participant's experience going through and thoughts of the website.  
+
 ## Link to UT survey used
 https://forms.gle/Fr2D47nDyUwURyiPA
 
