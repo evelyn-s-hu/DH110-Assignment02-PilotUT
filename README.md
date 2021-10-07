@@ -18,13 +18,14 @@ The usability test consisted of the following steps:
 - Product satisfaction cards
 - Demographics
 <br>
-The usability aimed to measure how the user felt regarding ease of use, trustworthiness, site organization and content, and general feelings upon using the website.
-
+The usability aimed to measure how the user felt regarding ease of use, trustworthiness, site organization and content, and general feelings upon using the website.  
+Zoom and its recording function was used to capture footage of the participant's experience going through and thoughts of the website.  
 ## Link to UT survey used
 https://forms.gle/Fr2D47nDyUwURyiPA
 
 ## UT Video
 
-[embed video here\]
+[![Youtube video of usability testing pilot](https://img.youtube.com/vi/VUunE5aPL2Q/0.jpg)](https://youtu.be/VUunE5aPL2Q)
+
 
 ## Post-UT Reflection
